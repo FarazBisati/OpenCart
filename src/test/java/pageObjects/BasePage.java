@@ -5,7 +5,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class BasePage {
 
-	
+//	new comment
 	WebDriver driver;
 
 	public BasePage(WebDriver driver) {
